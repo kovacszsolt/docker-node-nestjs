@@ -1,4 +1,3 @@
-LABEL version="1.0" maintainer="Zsolt Kovacs <smith.zsolt@gmail.com>"
 FROM ubuntu:latest
 RUN apt-get update
 RUN apt-get install -y curl
